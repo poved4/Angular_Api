@@ -1,0 +1,23 @@
+body {
+  background-image:url(../img/fondo-toy.jpg);
+}
+
+.navegador {
+  background:rgb(111, 169, 255);
+  height: 50px;
+}
+
+.colores-header {
+    color: rgb(246, 248, 243);
+}
+
+nav{
+    height: 45px;
+    max-height: 40px;
+  }
+
+
+.nav-item {
+  padding: 0;
+  margin: 0 5px;
+}
